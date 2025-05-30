@@ -1,10 +1,14 @@
 # Material Editor
 
+Download the mod from [**Here**](https://github.com/olshab/DeadByDaylight-MaterialEditor/releases)
+
 This mod helps you to experiment with materials in **Dead By Daylight**.
 
 It provides a widget that allows to set mesh, material and parameters. It looks like this:
 
 ![MaterialEditorPreview](https://github.com/olshab/DeadByDaylight-MaterialEditor/blob/main/Preview.png?raw=true)
+
+
 
 ## Requirements
 
