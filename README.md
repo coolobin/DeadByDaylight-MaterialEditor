@@ -4,7 +4,7 @@ This mod helps you to experiment with materials in **Dead By Daylight**.
 
 It provides a widget that allows to set mesh, material and parameters. It looks like this:
 
-![MaterialEditorPreview](tab.png)
+![MaterialEditorPreview](tabs.png)
 
 
 
